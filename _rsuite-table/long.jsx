@@ -48,7 +48,7 @@ export default () => {
       </Table>
       <button
         onClick={() => {
-          tableRef.current.scrollTop(10000);
+          tableRef.current.scrollTop(0);
         }}
       >
         Scroll top
