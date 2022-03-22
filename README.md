@@ -1,10 +1,10 @@
 # README
 
-- @ide https://luo0412-demoreactlongli-r33sr5jstjw.ws-us38.gitpod.io/
+- @ide https://uijavascript-demoreactlo-d4ug2410y9y.ws-us38.gitpod.io/
 - @demo
-    - https://8000-luo0412-demoreactlongli-r33sr5jstjw.ws-us38.gitpod.io/
-    - https://8000-luo0412-demoreactlongli-r33sr5jstjw.ws-us38.gitpod.io/long
-    - https://8000-luo0412-demoreactlongli-r33sr5jstjw.ws-us38.gitpod.io/fluid-column
+    - https://8000-uijavascript-demoreactlo-d4ug2410y9y.ws-us38.gitpod.io/
+    - https://8000-uijavascript-demoreactlo-d4ug2410y9y.ws-us38.gitpod.io/
+    - https://8000-uijavascript-demoreactlo-d4ug2410y9y.ws-us38.gitpod.io/fluid-column
     - https://luo0412.github.io/demo-react-longlist-editable-202203/word-wrap @notok
 
 # 常见问题 @bug

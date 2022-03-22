@@ -12773,7 +12773,7 @@
                 }),
                 (0, n.jsx)('button', {
                   onClick: () => {
-                    e.current.scrollTop(1e4);
+                    e.current.scrollTop(0);
                   },
                   children: 'Scroll top',
                 }),
