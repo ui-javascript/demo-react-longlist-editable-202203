@@ -1,7 +1,7 @@
 import React from 'react';
-import fakeLargeData from './fakeLargeData.json';
 import { Table, Column, HeaderCell, Cell } from 'rsuite-table';
 import 'rsuite-table/lib/less/index.less'; // or 'rsuite-table/dist/css/rsuite-table.css'
+import fakeLargeData from './data/fakeLargeData.json';
 
 export default () => {
   const tableRef = React.createRef();
